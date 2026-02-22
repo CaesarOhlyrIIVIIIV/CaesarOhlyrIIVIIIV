@@ -69,14 +69,11 @@ I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**,
 </td></tr></table>  
 
 <br/>  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaesarOhlyrIIVIIIV&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=CaesarOhlyrIIVIIIV&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 🏆 Key Milestones
 
