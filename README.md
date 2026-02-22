@@ -1,7 +1,7 @@
 <h1>
   Hello, My name is Febrian 
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="35">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="35">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="30">
 </h1>
 
 I am a 15-year-old **Creative Tech Explorer** From Indonesia. Currently, I am part of the **Prima Cendikia (Fast Track/Excellence Class)** at SMAN 3 Mataram, a specialized program for high-achieving students and olympiad competitors.
