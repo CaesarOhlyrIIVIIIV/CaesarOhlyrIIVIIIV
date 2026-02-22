@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=36BCF7&center=false&vCenter=true&width=1000&height=100&lines=My+Name+Is+M.+Febrian+Maulana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=36BCF7&center=false&vCenter=true&width=1000&height=70&lines=My+Name+Is+M.+Febrian+Maulana)](https://git.io/typing-svg)
 
 I am a 15-year-old **Creative Tech Explorer** From Indonesia. Currently, I am part of the **Prima Cendikia (Fast Track/Excellence Class)** at SMAN 3 Mataram, a specialized program for high-achieving students and olympiad competitors.
 
