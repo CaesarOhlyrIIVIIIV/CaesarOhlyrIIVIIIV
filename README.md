@@ -1,12 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36BCF7&center=false&vCenter=true&width=1000&height=150&lines=My+Name+Is+M.+Febrian+Maulana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=false&vCenter=true&width=1000&height=150&lines=My+Name+Is+M.+Febrian+Maulana)](https://git.io/typing-svg)
 
 I am a 15-year-old **Creative Tech Explorer** From Indonesia. Currently, I am part of the **Prima Cendikia (Fast Track/Excellence Class)** at SMAN 3 Mataram, a specialized program for high-achieving students and olympiad competitors.
 
 I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**, and **Visual Design**. My journey is driven by a deep curiosity about how systems work, how they can be secured, and how they can be made beautiful.
 
 ---
-
-
 ![image_alt](https://github.com/CaesarOhlyrIIVIIIV/CaesarOhlyrIIVIIIV/blob/9ed826639bba388e4fc0656f2d57500aee3de211/Tanpa%20judul%20(1200%20x%20300%20piksel)%20(1200%20x%20400%20piksel).png)
 
 # 💻 Tech Stack:
@@ -45,11 +43,6 @@ I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**,
   <a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="65" style="margin-right: 15px;" /></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### 🏆 Key Milestones
 
 * **AI Specialist:** Top 30 Finalist in **EKKA (Artificial Intelligence Coding Exhibition)** National Level (The sole representative of West Nusa Tenggara for International selection).
@@ -72,6 +65,11 @@ I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**,
 
 *"Bridging the gap between code and aesthetics."* I don't just write code; I design experiences and secure infrastructures. Whether I'm deep in a Python script or analyzing a system's vulnerability, I ensure the outcome is efficient, secure, and visually compelling.
 *Visual Engineering:* Crafting 3D assets and environments using Blender, and producing high-impact video content through CapCut. Skilled in rapid visual prototyping with Canva.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CaesarOhlyrIIVIIIV&theme=neon&no-frame=false&no-bg=false&margin-w=4)
