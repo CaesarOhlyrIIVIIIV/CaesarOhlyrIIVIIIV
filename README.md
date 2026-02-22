@@ -1,4 +1,4 @@
-# Hello, My name is Febrian ![cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA0Y3RyeXN6bmM1bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxPucU5Y2v6/giphy.gif)
+# Hello, My name is Febrian ![cat](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png)
 
 ![image_alt](https://github.com/CaesarOhlyrIIVIIIV/CaesarOhlyrIIVIIIV/blob/0a4aac7ed96e1314015e479778cc3e4861d286af/Tanpa%20judul%20(1200%20x%20300%20piksel)%20(1200%20x%20400%20piksel).png)
 
