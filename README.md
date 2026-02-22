@@ -1,6 +1,5 @@
 <h1>
   Hello, My name is Febrian
-  <img src="" width="40px">
 </h1>
 
 ![image_alt](https://github.com/CaesarOhlyrIIVIIIV/CaesarOhlyrIIVIIIV/blob/0a4aac7ed96e1314015e479778cc3e4861d286af/Tanpa%20judul%20(1200%20x%20300%20piksel)%20(1200%20x%20400%20piksel).png)
