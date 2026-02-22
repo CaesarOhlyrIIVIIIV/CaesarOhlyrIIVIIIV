@@ -18,8 +18,6 @@ I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**,
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -71,7 +69,6 @@ I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**,
 </td></tr></table>  
 
 <br/>  
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false)<br/>
