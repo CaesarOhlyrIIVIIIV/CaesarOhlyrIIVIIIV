@@ -1,9 +1,8 @@
 <h1>
   Hello, My name is Febrian 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="35">
 </h1>
-
-![image_alt](https://github.com/CaesarOhlyrIIVIIIV/CaesarOhlyrIIVIIIV/blob/0a4aac7ed96e1314015e479778cc3e4861d286af/Tanpa%20judul%20(1200%20x%20300%20piksel)%20(1200%20x%20400%20piksel).png)
 
 I am a 15-year-old **Creative Tech Explorer** From Indonesia. Currently, I am part of the **Prima Cendikia (Fast Track/Excellence Class)** at SMAN 3 Mataram, a specialized program for high-achieving students and olympiad competitors.
 
