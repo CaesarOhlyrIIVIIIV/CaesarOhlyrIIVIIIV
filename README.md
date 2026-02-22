@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=36BCF7&center=false&vCenter=true&width=1000&height=50&lines=Welcome+to+Febrian+Github+Portfolio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=36BCF7&center=false&vCenter=true&width=1000&height=50&lines=Welcome+to+Febrian+Portfolio)](https://git.io/typing-svg)
 
 ![image_alt](https://github.com/CaesarOhlyrIIVIIIV/CaesarOhlyrIIVIIIV/blob/9ed826639bba388e4fc0656f2d57500aee3de211/Tanpa%20judul%20(1200%20x%20300%20piksel)%20(1200%20x%20400%20piksel).png)
 
