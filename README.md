@@ -4,6 +4,8 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="30">
 </h1>
 
+![image_alt](https://github.com/CaesarOhlyrIIVIIIV/CaesarOhlyrIIVIIIV/blob/9ed826639bba388e4fc0656f2d57500aee3de211/Tanpa%20judul%20(1200%20x%20300%20piksel)%20(1200%20x%20400%20piksel).png)
+
 I am a 15-year-old **Creative Tech Explorer** From Indonesia. Currently, I am part of the **Prima Cendikia (Fast Track/Excellence Class)** at SMAN 3 Mataram, a specialized program for high-achieving students and olympiad competitors.
 
 I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**, and **Visual Design**. My journey is driven by a deep curiosity about how systems work, how they can be secured, and how they can be made beautiful.
