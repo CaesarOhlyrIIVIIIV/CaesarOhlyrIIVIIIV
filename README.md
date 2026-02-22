@@ -1,5 +1,5 @@
 <h1>
-  Hello, My name is Febrian 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+Name+M.+Febrian+Maulana" alt="Typing SVG" /></a>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="30">
 </h1>
