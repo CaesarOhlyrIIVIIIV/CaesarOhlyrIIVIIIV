@@ -1,7 +1,5 @@
 <h1>
-  Hello, My name is Febrian 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" style="vertical-align:middle">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="30" style="vertical-align:middle">
+  Hello, My name is Febrian <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="35">
 </h1>
 
 I am a 15-year-old **Creative Tech Explorer** From Indonesia. Currently, I am part of the **Prima Cendikia (Fast Track/Excellence Class)** at SMAN 3 Mataram, a specialized program for high-achieving students and olympiad competitors.
