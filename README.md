@@ -79,9 +79,7 @@ I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**,
 </div>
 
 &nbsp;<div align="center">
-  [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
-  [![Kaggle](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.kaggle.com/caesarohlyriiviiiv)
-  [![Behance](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://www.behance.net/muhammadfebrian10)
+  [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md)
 </div>
 
 ## 🏆 GitHub Trophies
