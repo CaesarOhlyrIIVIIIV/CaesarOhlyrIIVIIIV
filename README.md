@@ -78,10 +78,6 @@ I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**,
   [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
 </div>
 
-&nbsp;<div align="center">
-  [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md)
-</div>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CaesarOhlyrIIVIIIV&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
