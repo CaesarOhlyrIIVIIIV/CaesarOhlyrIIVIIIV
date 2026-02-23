@@ -74,6 +74,14 @@ I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**,
 ![](https://nirzak-streak-stats.vercel.app/?user=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+- [GitHub Stats Card](#github-stats-card)
+    - [Hiding individual stats](#hiding-individual-stats)
+    - [Showing additional individual stats](#showing-additional-individual-stats)
+    - [Showing icons](#showing-icons)
+    - [Showing commits count for specified year](#showing-commits-count-for-specified-year)
+    - [Themes](#themes)
+    - [Customization](#customization)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CaesarOhlyrIIVIIIV&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
