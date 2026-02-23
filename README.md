@@ -69,14 +69,14 @@ I operate at the intersection of **Artificial Intelligence**, **Cybersecurity**,
 *"Bridging the gap between code and aesthetics."* I don't just write code; I design experiences and secure infrastructures. Whether I'm deep in a Python script or analyzing a system's vulnerability, I ensure the outcome is efficient, secure, and visually compelling.
 *Visual Engineering:* Crafting 3D assets and environments using Blender, and producing high-impact video content through CapCut. Skilled in rapid visual prototyping with Canva.
 
+&nbsp;<div align="center">
+  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaesarOhlyrIIVIIIV&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-&nbsp;<div align="center">
-  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CaesarOhlyrIIVIIIV&theme=neon&no-frame=false&no-bg=false&margin-w=4)
